@@ -3,8 +3,8 @@ Contributors: danpai
 Donate link: http://danilopaissan.net/blog/
 Tags: links, bitly, goo.gl, shortner, url
 Requires at least: 2.0
-Tested up to: 3.3
-Stable tag: 0.1
+Tested up to: 3.3.1
+Stable tag: 0.2
 
 D(ifferent)P(lace) URL Shortner is a WordPress Plugin designed to use the most popular URL shortening services.
 
@@ -47,3 +47,5 @@ Yes
 == Changelog ==
 = 0.1 =
 * This version is quite stable but it can be used as long as you know what you are doing.
+= 0.2 =
+* This version bypass the error "SSL certificate problem, verify that the CA cert is OK. Details: error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed".
